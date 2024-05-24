@@ -1,13 +1,4 @@
 <h1 align = "center">SmartGPT</h1>
-<div align = "center">
-    <a href="LICENSE.md">
-        <img alt="License" src="https://img.shields.io/github/license/Cormanz/smartgpt?style=flat-square" />
-        <img alt = "Stars" src="https://img.shields.io/github/stars/Cormanz/smartgpt?style=flat-square">
-        <img src = "https://img.shields.io/badge/use-experimental-informational?style=flat-square">
-    </a>
-</div>
-
-<hr/>
 
 SmartGPT is an experimental program meant to provide LLMs (particularly GPT-3.5 and GPT-4) with the ability to complete complex tasks without user input by breaking them down into smaller problems, and collecting information using the internet and other external sources.
 
